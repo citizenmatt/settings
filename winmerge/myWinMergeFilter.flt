@@ -1,0 +1,41 @@
+## This is a directory/file filter for WinMerge 
+## This filter lets through only files ASP.NET developers care about 
+name: My WinMerge Filter
+desc: Exclude Source Control, Resharper and build files and directories
+
+## This is an inclusive (loose) filter
+## (it lets through everything not specified)
+def: include
+
+
+## Filters for filenames begin with f: 
+## Filters for directories begin with d: 
+## (Inline comments begin with " ##" and extend to the end of the line) 
+
+## f: *\.bzrignore$ ## Bazaar ignore file
+## f: *\.cvsignore$ ## CVS ignore file
+## f: *\.hgignore$ ## Mercurial ignore file
+## f: *\.svnignore$ ## Subversion ignore file
+
+f: *\.*scc$  ## Visual SourceSafe files
+f: \.aps$ ## VC Binary version of resource file, for quick loading
+f: \.bsc$ ## VC Browser database
+## f: \.dll$ ## Windows DLL
+## f: \.exe$ ## Windows executable
+f: \.obj$ ## VC object module file
+## f: \.pdb$ ## VC program database file (debugging symbolic information)
+f: \.res$ ## VC compiled resources file (output of RC [resource compiler])
+f: \.suo$ ## VC options file (binary)
+f: \.cache$ ## ??
+f: \.resource$ ## Compiled resource file.
+f: \.bak$ ## backup
+
+d: \\\.svn$ ## Subversion working copy
+d: \\_svn$  ## Subversion working copy ASP.NET Hack
+d: \\cvs$   ## CVS control directory
+d: \\\.bzr$ ## Bazaar branch
+d: \\\.hg$ ## Mercurial repository
+d: \\_ReSharper.*$
+d: \\bin\\Debug$
+d: \\bin\\Release$
+d: \\obj$

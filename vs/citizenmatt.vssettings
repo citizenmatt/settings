@@ -105,14 +105,17 @@
 							<Item Name="ReSharper Brace Outline" Foreground="0x002D7151" Background="0x00271C0C" BoldFont="No"/>
 							<Item Name="ReSharper Completion Replacement Range" Foreground="0x009B009B" Background="0x00620062" BoldFont="No"/>
 							<Item Name="ReSharper Current Line Highlight" Foreground="0x00AF7D3A" Background="0x003C2B13" BoldFont="No"/>
-							<Item Name="ReSharper Error Highlighting" Foreground="0x000000FF" Background="0x00000064" BoldFont="Yes"/>
+							<Item Name="ReSharper Error Highlighting" Foreground="0x004242FF" Background="0x00000064" BoldFont="Yes"/>
 							<Item Name="ReSharper Highlight" Foreground="0x00F5A41B" Background="0x00AE7109" BoldFont="No"/>
 							<Item Name="ReSharper Highlight Target" Foreground="0x005F9287" Background="0x004D7970" BoldFont="No"/>
 							<Item Name="ReSharper Hint" Foreground="0x0064AF64" Background="0x02000000" BoldFont="No"/>
+							<Item Name="ReSharper LiveTemplates Current HotSpot" Foreground="0x0000CECE" Background="0x02000000" BoldFont="No"/>
+							<Item Name="ReSharper LiveTemplates Current HotSpot mirror" Foreground="0x0000A6A6" Background="0x02000000" BoldFont="No"/>
+							<Item Name="ReSharper LiveTemplates Inactive HotSpot" Foreground="0x0016656D" Background="0x00463315" BoldFont="No"/>
 							<Item Name="ReSharper Navigation Highlight" Foreground="0x00DC8D0A" Background="0x00825406" BoldFont="No"/>
 							<Item Name="ReSharper Read Usage" Foreground="0x00F5A41B" Background="0x00C17C09" BoldFont="No"/>
-							<Item Name="ReSharper Rearrange Left/Right Code Hint" Foreground="0x00000000" Background="0x0078F9FC" BoldFont="No"/>
-							<Item Name="ReSharper Rearrange Up/Down Code Hint" Foreground="0x00000000" Background="0x00AB751B" BoldFont="No"/>
+							<Item Name="ReSharper Rearrange Left/Right Code Hint" Foreground="0x00AA5500" Background="0x00964B00" BoldFont="No"/>
+							<Item Name="ReSharper Rearrange Up/Down Code Hint" Foreground="0x006E3700" Background="0x005A2D00" BoldFont="No"/>
 							<Item Name="ReSharper Suggestion" Foreground="0x0064FF64" Background="0x02000000" BoldFont="No"/>
 							<Item Name="ReSharper Todo Item" Foreground="0x0000FC7C" Background="0x02000000" BoldFont="Yes"/>
 							<Item Name="ReSharper Underlined Error Highlighting" Foreground="0x006F6FFF" Background="0x02000000" BoldFont="No"/>

@@ -10,6 +10,7 @@
 				<Categories>
 					<Category GUID="{00CCEE86-3140-4E06-A65A-A92665A40D6F}" FontIsDefault="Yes">
 						<Items>
+							<Item Name="Plain Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Selected Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
 						</Items>
 					</Category>
@@ -31,6 +32,7 @@
 					</Category>
 					<Category GUID="{5C48B2CB-0366-4FBF-9786-0BB37E945687}" FontIsDefault="Yes">
 						<Items>
+							<Item Name="Plain Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Selected Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Inactive Selected Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Current List Location" Foreground="0x00A3DBFF" Background="0x01000007" BoldFont="No"/>
@@ -45,6 +47,7 @@
 					</Category>
 					<Category GUID="{9973EFDF-317D-431C-8BC1-5E88CBFD4F7F}" FontIsDefault="Yes">
 						<Items>
+							<Item Name="Plain Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Selected Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Inactive Selected Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Current List Location" Foreground="0x00A3DBFF" Background="0x01000007" BoldFont="No"/>
@@ -65,7 +68,7 @@
 							<Item Name="Indicator Margin" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Line Numbers" Foreground="0x00ADADAD" Background="0x00452F1D" BoldFont="No"/>
 							<Item Name="Brace Matching (Highlight)" Foreground="0x004080FF" Background="0x02000000" BoldFont="Yes"/>
-							<Item Name="Brace Matching (Rectangle)" Foreground="0x02000000" Background="0x00844649" BoldFont="Yes"/>
+							<Item Name="Brace Matching (Rectangle)" Foreground="0x02000000" Background="0x002D7151" BoldFont="Yes"/>
 							<Item Name="Code Snippet Dependent Field" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Code Snippet Field" Foreground="0x02000000" Background="0x00004000" BoldFont="No"/>
 							<Item Name="Collapsible Text" Foreground="0x00C0C0C0" Background="0x01000003" BoldFont="No"/>
@@ -102,6 +105,10 @@
 							<Item Name="Refactoring Background" Foreground="0x01000002" Background="0x00303030" BoldFont="No"/>
 							<Item Name="Refactoring Current Field" Foreground="0x02000000" Background="0x00FF8080" BoldFont="No"/>
 							<Item Name="Refactoring Dependent Field" Foreground="0x000000FF" Background="0x02000000" BoldFont="No"/>
+							<Item Name="ReSharper ASP.NET MVC Action" Foreground="0x00E61AA8" Background="0x02000000" BoldFont="No"/>
+							<Item Name="ReSharper ASP.NET MVC Area" Foreground="0x00E61CA8" Background="0x02000000" BoldFont="No"/>
+							<Item Name="ReSharper ASP.NET MVC Controller" Foreground="0x00E61CA8" Background="0x02000000" BoldFont="No"/>
+							<Item Name="ReSharper ASP.NET MVC View" Foreground="0x00E61CA8" Background="0x02000000" BoldFont="No"/>
 							<Item Name="ReSharper Brace Outline" Foreground="0x002D7151" Background="0x00271C0C" BoldFont="No"/>
 							<Item Name="ReSharper Completion Replacement Range" Foreground="0x009B009B" Background="0x00620062" BoldFont="No"/>
 							<Item Name="ReSharper Current Line Highlight" Foreground="0x00AF7D3A" Background="0x003C2B13" BoldFont="No"/>
@@ -112,6 +119,8 @@
 							<Item Name="ReSharper LiveTemplates Current HotSpot" Foreground="0x0000CECE" Background="0x02000000" BoldFont="No"/>
 							<Item Name="ReSharper LiveTemplates Current HotSpot mirror" Foreground="0x0000A6A6" Background="0x02000000" BoldFont="No"/>
 							<Item Name="ReSharper LiveTemplates Inactive HotSpot" Foreground="0x0016656D" Background="0x00463315" BoldFont="No"/>
+							<Item Name="ReSharper Matched Format String Item" Foreground="0x02000000" Background="0x00800080" BoldFont="No"/>
+							<Item Name="ReSharper Name or Signature Changed" Foreground="0x00976D2F" Background="0x02000000" BoldFont="No"/>
 							<Item Name="ReSharper Navigation Highlight" Foreground="0x009D6506" Background="0x00825406" BoldFont="No"/>
 							<Item Name="ReSharper Read Usage" Foreground="0x00F5A41B" Background="0x00C17C09" BoldFont="No"/>
 							<Item Name="ReSharper Rearrange Left/Right Code Hint" Foreground="0x00AA5500" Background="0x00964B00" BoldFont="No"/>

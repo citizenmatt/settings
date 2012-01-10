@@ -84,7 +84,7 @@
 							<Item Name="Definition Window Background" Foreground="0x01000002" Background="0x00808080" BoldFont="No"/>
 							<Item Name="Definition Window Current Match" Foreground="0x0000FFFF" Background="0x02000000" BoldFont="No"/>
 							<Item Name="MarkerFormatDefinition/FindHighlightFormatting" Foreground="0x02000000" Background="0x00409680" BoldFont="No"/>
-							<Item Name="MarkerFormatDefinition/HighlightedReference" Foreground="0x00487369" Background="0x00314D48" BoldFont="No"/>
+							<Item Name="MarkerFormatDefinition/HighlightedReference" Foreground="0x00A40257" Background="0x0052012C" BoldFont="No"/>
 							<Item Name="HTML Attribute" Foreground="0x00C0DAED" Background="0x02000000" BoldFont="No"/>
 							<Item Name="HTML Attribute Value" Foreground="0x008EF0D8" Background="0x02000000" BoldFont="No"/>
 							<Item Name="HTML Comment" Foreground="0x0000FC7C" Background="0x02000000" BoldFont="No"/>

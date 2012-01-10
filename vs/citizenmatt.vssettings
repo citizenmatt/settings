@@ -67,12 +67,12 @@
 							<Item Name="Inactive Selected Text" Foreground="0x02000000" Background="0x00745423" BoldFont="No"/>
 							<Item Name="Indicator Margin" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Line Numbers" Foreground="0x00ADADAD" Background="0x00452F1D" BoldFont="No"/>
-							<Item Name="Brace Matching (Highlight)" Foreground="0x004080FF" Background="0x02000000" BoldFont="Yes"/>
-							<Item Name="Brace Matching (Rectangle)" Foreground="0x02000000" Background="0x00533A1A" BoldFont="Yes"/>
+							<Item Name="Brace Matching (Highlight)" Foreground="0x00544321" Background="0x02000000" BoldFont="Yes"/>
+							<Item Name="Brace Matching (Rectangle)" Foreground="0x02000000" Background="0x00544321" BoldFont="Yes"/>
 							<Item Name="Code Snippet Dependent Field" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Code Snippet Field" Foreground="0x02000000" Background="0x00004000" BoldFont="No"/>
 							<Item Name="Collapsible Text" Foreground="0x00C0C0C0" Background="0x01000003" BoldFont="No"/>
-							<Item Name="outlining.collapsehintadornment" Foreground="0x00372811" Background="0x001F160A" BoldFont="No"/>
+							<Item Name="outlining.collapsehintadornment" Foreground="0x00553E1A" Background="0x001F160A" BoldFont="No"/>
 							<Item Name="Comment" Foreground="0x0000FC7C" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Compiler Error" Foreground="0x00FF6464" Background="0x02000000" BoldFont="No"/>
 							<Item Name="CSS Comment" Foreground="0x0000FC7C" Background="0x02000000" BoldFont="No"/>
@@ -83,7 +83,8 @@
 							<Item Name="CSS String Value" Foreground="0x0060FF60" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Definition Window Background" Foreground="0x01000002" Background="0x00808080" BoldFont="No"/>
 							<Item Name="Definition Window Current Match" Foreground="0x0000FFFF" Background="0x02000000" BoldFont="No"/>
-							<Item Name="MarkerFormatDefinition/FindHighlightFormatting" Foreground="0x02000000" Background="0x00409680" BoldFont="No"/>
+							<Item Name="SourceLineClassificationFormat" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="MarkerFormatDefinition/FindHighlightFormatting" Foreground="0x007315E6" Background="0x004813AC" BoldFont="No"/>
 							<Item Name="MarkerFormatDefinition/HighlightedReference" Foreground="0x00A40257" Background="0x0052012C" BoldFont="No"/>
 							<Item Name="HTML Attribute" Foreground="0x00C0DAED" Background="0x02000000" BoldFont="No"/>
 							<Item Name="HTML Attribute Value" Foreground="0x008EF0D8" Background="0x02000000" BoldFont="No"/>
@@ -110,10 +111,10 @@
 							<Item Name="ReSharper ASP.NET MVC Area" Foreground="0x00E61CA8" Background="0x02000000" BoldFont="No"/>
 							<Item Name="ReSharper ASP.NET MVC Controller" Foreground="0x00E61CA8" Background="0x02000000" BoldFont="No"/>
 							<Item Name="ReSharper ASP.NET MVC View" Foreground="0x00E61CA8" Background="0x02000000" BoldFont="No"/>
-							<Item Name="ReSharper Brace Outline" Foreground="0x002D7151" Background="0x00271C0C" BoldFont="No"/>
+							<Item Name="ReSharper Brace Outline" Foreground="0x00544321" Background="0x00271C0C" BoldFont="No"/>
 							<Item Name="ReSharper Completion Replacement Range" Foreground="0x009B009B" Background="0x00620062" BoldFont="No"/>
 							<Item Name="ReSharper Current Line Highlight" Foreground="0x00AF7D3A" Background="0x003C2B13" BoldFont="No"/>
-							<Item Name="ReSharper Error Highlighting" Foreground="0x004242FF" Background="0x00000064" BoldFont="Yes"/>
+							<Item Name="ReSharper Error Highlighting" Foreground="0x004242FF" Background="0x00000078" BoldFont="Yes"/>
 							<Item Name="ReSharper Highlight" Foreground="0x00DC8D0A" Background="0x00AE7109" BoldFont="No"/>
 							<Item Name="ReSharper Highlight Target" Foreground="0x005F9287" Background="0x004D7970" BoldFont="No"/>
 							<Item Name="ReSharper Hint" Foreground="0x0064AF64" Background="0x02000000" BoldFont="No"/>
@@ -140,6 +141,7 @@
 							<Item Name="String" Foreground="0x00E6F0A6" Background="0x02000000" BoldFont="No"/>
 							<Item Name="String(C# @ Verbatim)" Foreground="0x00E7F0A6" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Syntax Error" Foreground="0x006464FF" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Text" Foreground="0x00FFFFFF" Background="0x02000000" BoldFont="No"/>
 							<Item Name="urlformat" Foreground="0x00E19696" Background="0x02000000" BoldFont="No"/>
 							<Item Name="User Types" Foreground="0x007AD9E7" Background="0x02000000" BoldFont="No"/>
 							<Item Name="User Types(Delegates)" Foreground="0x005AFFFF" Background="0x02000000" BoldFont="No"/>
